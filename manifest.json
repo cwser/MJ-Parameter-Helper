@@ -11,7 +11,16 @@
         "https://discord.com/*"
       ],
       "js": [
-        "content.js"
+        "config.js",
+        "utils.js",
+        "paramManager.js",
+        "themeManager.js",
+        "tooltipData.js",
+        "tooltipManager.js",
+        "uiManager.js",
+        "storageManager.js",
+        "eventBinder.js",
+        "main.js"
       ],
       "css": [
         "style.css"
@@ -22,5 +31,4 @@
     "16": "icons/icon-16.png",
     "48": "icons/icon-48.png",
     "128": "icons/icon-128.png"
-  }
-}
+  }}
